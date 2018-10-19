@@ -1,4 +1,8 @@
-#This scripts finds the value of pi using the monte carlo method. It isn't visual, although the result approximation of pi will be the same
+'''
+This scripts finds the value of pi using the monte carlo method
+It isn't visual, although the result approximation of pi will be the same
+For higher accuracy, increase the '100,000' on lines 10 and 17. This will take more processing power, however
+'''
 
 #import necessary modules
 from math import sqrt
